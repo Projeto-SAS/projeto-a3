@@ -62,4 +62,4 @@ Projeto desenvolvido na UNA Betim, sobre um sistema de gerenciamento de supermer
 ![Modelo Conceitual](https://github.com/Projeto-SAS/projeto-a3/assets/96255118/e5b5092e-4f28-4c14-a7da-b57ef7d8d891)
 
 # Modelo Físico
-![Modelo Conceitual](https://github.com/Projeto-SAS/projeto-a3/assets/96255118/32ef48b1-a299-487e-9169-314dbc4a42a0)
+![modelo-fisico](https://github.com/Projeto-SAS/projeto-a3/assets/96255118/5c46497b-2341-4d37-8074-2abf52b91c4a)
