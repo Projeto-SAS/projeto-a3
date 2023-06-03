@@ -34,7 +34,7 @@ Este trabalho tem como objetivo abordar detalhadamente o desenvolvimento da plan
 
 [RF014] – Deverá ser armazenado informçaões sobre eventuais quebras de mercadoria.
 
-[RF015] – O software deve registrar o cliente.
+[RF015] – O software deverá registrar o cliente.
 
 [RF016] – O sistema deve armazenar nota fiscal digitalizada.
 
@@ -60,27 +60,21 @@ Este trabalho tem como objetivo abordar detalhadamente o desenvolvimento da plan
 # REQUISITOS NÃO FUNCIONAIS
 [RNF001] – O Sistema deve ser programado em Java ou Python.
 
-[RNF002] – O Sistema deve utilizar o banco de dados SQL.
+[RNF002] – A cor do sistema deve ser na cor Azul.
 
-[RNF003] – A cor do sistema deve ser na cor Azul.
+[RNF003] – O Software deve rodar em servidor em nuvem.
 
-[RNF004] – O Software deve rodar em servidor em nuvem.
+[RNF004] – O Software deve conter logomarca da empresa em todas páginas do sistema e cor relacionada;
 
-[RNF005] – O Software deve conter, logo marca da empresa em todas páginas do sistema e cor relacionada;
+[RNF005] – O sistema deve conter um banco de dados SQL.
 
-[RNF006] – O sistema deve conter um banco de dados SQL.
+[RNF006] – O software deve ser de fácil leitura.
 
-[RNF007] – O sistema deve validar as informações que estiver fazendo o login.
+[RNF007] – O sistema deverá informar os requisitos mínimos para funcionamento na máquina.
 
-[RNF008] – O sistema deve pesquisar histórico de ponto do funcionário.
+[RNF008] – O software deve rodar no Windows 10.
 
-[RNF009] – O software deve ser de fácil leitura.
-
-[RNF010] – O sistema deve informar os requisitos mínimos para funcionamento na máquina.
-
-[RNF011] – O software deve rodar no Windows 10.
-
-[RNF012] – A máquina deve ter acesso a rede.
+[RNF009] – A máquina deve ter acesso a rede.
 
 
 # Modelo Conceitual
