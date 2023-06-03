@@ -1,6 +1,10 @@
 # Projeto de Modelagem de Software
 Projeto desenvolvido na UNA Betim, sobre um sistema de gerenciamento de supermercado.
 
+# Resumo
+O presente trabalho tem como objetivo apresentar um sistema para gerenciamento de um supermercado com o intuído da agilização e modernização para pequenos negócios. O sistema foi desenvolvido direcionado para o controle total de gerenciamento de serviços, de uma maneira simplicista e fácil, trazendo com sigo a agilização e modernização de um supermercado, de modo a aprimorar o desempenho, sendo compatível com a realidade dos estabelecimentos que aderirem o sistema do PROJETO SAS. 
+Este trabalho tem como objetivo abordar detalhadamente o desenvolvimento da planta de uma aplicação de um sistema para gerenciar um supermercado, na universidade UNA BETIM. Contudo, o projeto construído pelo grupo procura suprir as necessidades trazendo com sigo melhorias e modernização. Oferecendo aos usuários administrarem uma forma rápida de gerenciamento e análise do seu próprio negócio.
+
 # Requisitos Funcionais
 [RF001] – O sistema deve poder registrar funcionário.
 
