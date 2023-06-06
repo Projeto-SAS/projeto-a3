@@ -78,7 +78,7 @@ Este trabalho tem como objetivo abordar detalhadamente o desenvolvimento da plan
 
 
 # Modelo Conceitual
-![Modelo Conceitual](https://github.com/Projeto-SAS/projeto-a3/assets/96255118/e5b5092e-4f28-4c14-a7da-b57ef7d8d891)
+![Diagrama Conceitual](https://github.com/Projeto-SAS/projeto-a3/assets/96255118/a07d044a-890e-4e9b-89ef-b01c41e68a70)
 
 # Modelo Físico
 ![modelo-fisico](https://github.com/Projeto-SAS/projeto-a3/assets/96255118/5c46497b-2341-4d37-8074-2abf52b91c4a)
